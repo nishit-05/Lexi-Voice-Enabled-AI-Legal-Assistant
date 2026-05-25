@@ -1,4 +1,4 @@
-# Lexi – Voice-Enabled AI Legal Assistant
+# Lexi: Voice-Enabled AI Legal Assistant
 
 Lexi is a **voice-powered AI legal assistant** designed to provide real-time legal guidance through seamless, hands-free interaction.  
 She interprets **spoken legal queries**, analyzes context, and generates accurate, conversational responses using **Natural Language Processing (NLP)** and **Generative AI**.
