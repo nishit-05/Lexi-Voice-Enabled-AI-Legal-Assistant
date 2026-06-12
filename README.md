@@ -1,5 +1,11 @@
 # Lexi: Voice-Enabled AI Legal Assistant
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Transformers-FFD21E)
+![RAG](https://img.shields.io/badge/RAG-LLM-blueviolet)
+
 Lexi is a **voice-powered AI legal assistant** designed to provide real-time legal guidance through seamless, hands-free interaction.  
 She interprets **spoken legal queries**, analyzes context, and generates accurate, conversational responses using **Natural Language Processing (NLP)** and **Generative AI**.
 
@@ -62,8 +68,15 @@ Lexi’s architecture follows an **end-to-end AI pipeline**:
 Lexi aims to become a **trustworthy AI companion** in the legal space — bridging technology and justice through the power of **AI, NLP, and voice interaction**.
 
 
-### Author
+## License
+
+This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
+
+
+## Author
+
 **Nishit Dongre**  
-B.Tech in Electrical and Computer Engineering  
-[LinkedIn](https://linkedin.com/in/nishit-dongre-675031382) • [Email](mailto:nishitdongre@gmail.com)
+B.Tech in Electrical and Computer Engineering
+
+[LinkedIn](https://www.linkedin.com/in/nishitdongre/) • [Email](mailto:nishitdongre@gmail.com)
 
