@@ -13,7 +13,7 @@ She interprets **spoken legal queries**, analyzes context, and generates accurat
 ## Purpose
 
 Lexi was built with the vision to **democratize access to legal guidance**.  
-By integrating **Speech-to-Text (STT)** and **Text-to-Speech (TTS)** technologies, she enables individuals and businesses to interact naturally — making legal information **accessible, affordable, and conversational** anytime, anywhere.
+By integrating **Speech-to-Text (STT)** and **Text-to-Speech (TTS)** technologies, she enables individuals and businesses to interact naturally making legal information **accessible, affordable, and conversational** anytime, anywhere.
 
 
 ## What Lexi Does
@@ -65,12 +65,12 @@ Lexi’s architecture follows an **end-to-end AI pipeline**:
 
 ## Vision
 
-Lexi aims to become a **trustworthy AI companion** in the legal space — bridging technology and justice through the power of **AI, NLP, and voice interaction**.
+Lexi aims to become a **trustworthy AI companion** in the legal space, bridging technology and justice through the power of **AI, NLP, and voice interaction**.
 
 
 ## License
 
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
+This project is licensed under the **MIT License**- see the [LICENSE](LICENSE) file for details.
 
 
 ## Author
